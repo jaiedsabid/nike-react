@@ -38,6 +38,11 @@
     border-bottom-right-radius: 20px !important;
 }
 
+img.custom-img-w-s {
+    width: 78px;
+    height: 82px;
+}
+
 header {
     background-image: url("../images/background/dots.png");
     background-repeat: no-repeat;
