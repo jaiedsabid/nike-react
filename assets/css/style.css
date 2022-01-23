@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.bg-custom-1 {
+    background-color: #FFF9F4;
+}
+
+.btn-custom-color-1 {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+
+.custom-color-1 {
+    color: #FA804C;
+}
+
+.img-banner {
+    width: 80%;
+    height: 80%;
+}
+
+.custom-fs-1 {
+    font-size: 80px;
+}
+
+.custom-font-1 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+header {
+    background-image: url("../images/background/dots.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 35% 0%;
+}
