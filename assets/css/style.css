@@ -4,6 +4,10 @@
     background-color: #FFF9F4;
 }
 
+.bg-custom-2 {
+    background-color: #F1F1F1;
+}
+
 .btn-custom-color-1 {
     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
 }
@@ -23,6 +27,15 @@
 
 .custom-font-1 {
     font-family: 'Bebas Neue', cursive;
+}
+
+.custom-radious-1 {
+    border-radius: 20px !important;
+}
+
+.custom-radious-bottom-1 {
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
 }
 
 header {
