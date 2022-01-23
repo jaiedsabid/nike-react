@@ -49,3 +49,16 @@ header {
     background-size: 10%;
     background-position: 35% 0%;
 }
+
+.card {
+    transition: all 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+button.btn {
+    font-weight: 600;
+    border-radius: 10px !important;
+}
